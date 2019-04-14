@@ -1,0 +1,13 @@
+language: bash
+server:
+  - docker
+
+before_install:
+  - git clone https://github.com/Mogeko/docker-rust-centos.git
+
+before_script:
+  - chmod +x update.sh
+
+script:
+  - bash update.sh
+  
