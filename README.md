@@ -1,6 +1,6 @@
 # rust-centos
 
-[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/mogeko/rust-centos.svg?label=Docker&maxAge=600)](https://hub.docker.com/r/mogeko/rust-centos)
+[![Build Status](https://travis-ci.org/Mogeko/docker-rust-centos.svg?branch=auto-update)](https://travis-ci.org/Mogeko/docker-rust-centos)
 
 A Docker image that runs Rust in a CentOS environment
 
