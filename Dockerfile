@@ -1,6 +1,6 @@
 FROM centos:7
 
-ENV RUST_VERSION 1.13.0
+ENV RUST_VERSION 1.14.0
 ENV HOME /home
 ENV CARGO_HOME /usr/local/cargo
 ENV PATH $CARGO_HOME/bin:$HOME/.cargo/bin:$PATH
